@@ -22,6 +22,7 @@ This project showcases the use of HTML and CSS to create a basic Udemy clone web
 
     ```bash
     git clone https://github.com/SharmiliSeshasayi/udemy-clone-web-page.git
+    https://sharmiliseshasayi.github.io/Udemy-clone-web-pgae/
     ```
 
 2. Open the `index.html` file in a web browser.
